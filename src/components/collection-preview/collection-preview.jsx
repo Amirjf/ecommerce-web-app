@@ -13,7 +13,7 @@ const CollectionPreview = ({ title, items }) => (
                 ))
             }
         </div>
-    </div>
+    </div>  
 )
 
 
